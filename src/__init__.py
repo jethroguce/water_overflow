@@ -6,9 +6,8 @@
 # not to mock you with the exam or something
 # but why re-implement something that has been solved already
 # could be a good learning process though
-# or an oppotunity to show my skill or something
+# not sure if you also have time to write own test.
 
 # I use github properly and google
 # this is a sample implementation of a binary tree which is commonly used as code interview exam
 
-# not sure if you also have time to write own test.
