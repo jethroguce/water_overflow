@@ -20,5 +20,8 @@
 
 
 # this is me https://www.youtube.com/watch?v=w7dIQ0h2njk
-# though that's my first time to speak on a PyconPH workshop 
+# though that's my first time to speak on a PyconPH workshop | https://pycon-2017.python.ph/
 # was also nervous, so please be forgiving,  but it was a great experience and opportunity
+
+# I am always learning
+
