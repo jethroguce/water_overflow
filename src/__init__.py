@@ -12,3 +12,15 @@
 # this is a sample implementation of a binary tree which is commonly used as code interview exam
 
 # not sure if you also have time to write own test.
+
+# If ever you would read this
+
+# I am Jethro Guce, Senior Software Engineer with 9 year of working experience.
+# During my 9 years of working experience I have consistently received performance awards from my employer
+# You might not find a lot of public repos in my github profile
+# but you can see that I have been following python projects for years.
+
+
+# this is me https://www.youtube.com/watch?v=w7dIQ0h2njk
+# though that's my first time to speak on a PyconPH workshop 
+# was also nervous, so please be forgiving,  but it was a great experience and opportunity
